@@ -14,6 +14,7 @@ This is an example project showing off some of my front end skills, project orga
     - [Docker Requirements](#docker-requirements)
     - [Run the Project in Docker](#run-the-project-in-docker)
   - [Running Frontend Project](#running-frontend-project)
+  - [Easter Egg](#easter-egg)
 
 ---
 
@@ -74,5 +75,13 @@ The project directory is mounted into the docker container so any changes made a
 2. Next start the **React/Vite** app:
    1. Open a bash terminal at the project root directory, and run `npm run dev`.
    2. Once started, you can open a web browser at [localhost:5000](http://localhost:5000) to view the running application.
+
+---
+
+## Easter Egg
+
+There is an easter egg that you can type into the sign in input.
+
+[Since you are reading the docs, you get to know the easter egg password: NICE]: #
 
 ---
