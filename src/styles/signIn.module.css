@@ -1,0 +1,13 @@
+.top_offset {
+    margin-top: 25vh;
+}
+
+.input {
+    margin-top: 5px;
+}
+
+.image {
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 2px dashed #58af0e;
+}

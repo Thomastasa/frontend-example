@@ -1,0 +1,20 @@
+.nav {
+    width: 100%;
+    text-align: center;
+    background-color: #000000;
+    border-bottom: 5px solid #58af0e;
+    padding: 10px;
+}
+
+.info {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.info_value {
+    color: #58af0e;
+}
+
+.signout {
+    margin-top: 5px;
+}
